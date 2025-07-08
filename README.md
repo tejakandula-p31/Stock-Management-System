@@ -30,8 +30,11 @@ This application is designed to keep track of product stock details like item na
 ---
 
 ## 💡 Future Enhancements
-1.Use a database (e.g., SQLite) instead of in-memory storage
-2.Export reports to Excel or PDF
-3.Add login system for multiple users
-4.Generate stock alerts when quantity is low
-5.Graphical analysis of stock trends
+
+1. Use a database (e.g., SQLite) instead of in-memory storage
+2. Export reports to Excel or PDF 
+3. Add login system for multiple users 
+4. Generate stock alerts when quantity is low
+5. Graphical analysis of stock trends 
+
+---
